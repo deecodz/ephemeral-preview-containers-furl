@@ -1,6 +1,6 @@
 on:
   pull_request:
-    branches: [main]
+    branches: []
     types: [opened, reopened, synchronize, edited]
 
 jobs:
